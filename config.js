@@ -43,22 +43,22 @@ module.exports = {
     ANTI_DELETE: process.env.ANTI_DELETE || "true",
     ANTI_DEL_PATH: process.env.ANTI_DEL_PATH || "some",
     READ_MESSAGE: process.env.READ_MESSAGE || "false",
-    AUTO_REACT: process.env.AUTO_REACT || "false",
+    AUTO_REACT: process.env.AUTO_REACT || "true",
     AUTO_REPLY: process.env.AUTO_REPLY || "false",
-    AUTO_TYPING: process.env.AUTO_TYPING || "false",
+    AUTO_TYPING: process.env.AUTO_TYPING || "true",
     READ_CMD: process.env.READ_CMD || "false",
-    AUTO_RECORDING: process.env.AUTO_RECORDING || "false",
+    AUTO_RECORDING: process.env.AUTO_RECORDING || "true",
     
     // ==============================
     //           GROUP
     // ==============================
-    WELCOME: process.env.WELCOME || "false",
+    WELCOME: process.env.WELCOME || "true",
     ADMIN_EVENTS: process.env.ADMIN_EVENTS || "false",
     ANTI_LINK: process.env.ANTI_LINK || "false",
     ANTI_LINK_KICK: process.env.ANTI_LINK_KICK || "false",
     ANTI_BAD: process.env.ANTI_BAD || "false",
     DELETE_LINKS: process.env.DELETE_LINKS || "false",
-    MENTION_REPLY: process.env.MENTION_REPLY || "false",
+    MENTION_REPLY: process.env.MENTION_REPLY || "true",
 
     // ==============================
     //          STATUS
@@ -82,7 +82,7 @@ module.exports = {
     // ==============================
     //         REACTIONS
     // ==============================
-    CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
+    CUSTOM_REACT: process.env.CUSTOM_REACT || "true",
     CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍",
 
     // ==============================
