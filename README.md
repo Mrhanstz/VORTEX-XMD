@@ -97,17 +97,17 @@ Dont forget to fork 🍴 & star 🌟 repo😇
 <p>You will need a session ID to run the VORTEX-XMD. Click the button below to obtain your session ID. If there is any issue loading the site, try using a VPN:</p>
 
 <p><strong>1️⃣ Pair Code (Session ID)</strong></p>
-<a href='https://session-site-p855.onrender.com/' target="_blank">
+<a href='https://session-id-fc1f69d1fcb5.herokuapp.com/' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 
 <p><strong>2️⃣ Pair Code (Session ID)</strong></p>
-<a href='https://session-site-p855.onrender.com/pair' target="_blank">
+<a href='https://session-id-fc1f69d1fcb5.herokuapp.com/pair' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 
 <p><strong>3️⃣ QR Code (Session ID)</strong></p>
-<a href='https://session-site-p855.onrender.com/qr' target="_blank">
+<a href='https://session-id-fc1f69d1fcb5.herokuapp.com/qr' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-cyan?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 
