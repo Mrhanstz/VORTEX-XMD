@@ -19,7 +19,7 @@
   "logo": "https://files.catbox.moe/5knrbl.jpg",
   "success_url": "/",
   "env": {
-    "SESSION": {
+    "SESSION_ID": {
       "description": "Paste your Session ID after pairing the bot (required for authentication)",
       "required": true
     },
