@@ -1,6 +1,6 @@
 const settings = {
 
-SESSION_ID: process.env.SESSION_ID || '',
+SESSION_ID: process.env.SESSION_ID || 'HansTz&qJsxQCpa#KZsfWCy8ynBGc-LNovx0LfrVGuFALrN23bNTzC2F87Q',
   
 botName: process.env.BOT_NAME || "Hans_Tz",
   
